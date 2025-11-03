@@ -160,7 +160,7 @@
         <mxCell id="MKXH-iK_MvM6aBtfUqLP-24" value="Runtime Cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="618.5" y="50" width="135" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MKXH-iK_MvM6aBtfUqLP-26" value="Virtual Cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="MKXH-iK_MvM6aBtfUqLP-26" value="Virtual Cluster (nodeless)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="50" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MKXH-iK_MvM6aBtfUqLP-27" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
@@ -204,6 +204,18 @@
         </mxCell>
         <mxCell id="MKXH-iK_MvM6aBtfUqLP-40" value="OTel Collector" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1135" y="968" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MKXH-iK_MvM6aBtfUqLP-41" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="290" y="441" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MKXH-iK_MvM6aBtfUqLP-42" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="1000" y="441" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MKXH-iK_MvM6aBtfUqLP-43" value="Gardenlet" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="995" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MKXH-iK_MvM6aBtfUqLP-44" value="Gardenlet" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
